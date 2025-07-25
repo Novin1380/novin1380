@@ -1,4 +1,4 @@
-[<img src="./assets/novin1380-intro.gif" alt="👋 Hi there! I'm (Novin1380)|" title="👋 Hi there! I'm (Novin Nekuee|Novin1380)"/>](https://raymond.li/)
+[<img src="./assets/novin1380-intro.gif" alt="👋 Hi there! I'm (Novin1380)|" title="👋 Hi there! I'm (Novin Nekuee|Novin1380)"/>](https://novinnekuee.ir)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=novin1380.novin1380&color=00cf00)
 
